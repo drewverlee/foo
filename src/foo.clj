@@ -1,4 +1,4 @@
-(ns foo.clj)
+(ns foo)
 
 
 (defn foo [x]
